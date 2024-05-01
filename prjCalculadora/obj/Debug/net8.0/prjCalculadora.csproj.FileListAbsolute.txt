@@ -1,0 +1,14 @@
+C:\Users\ksandoval\source\repos\prjCalculadora\prjCalculadora\bin\Debug\net8.0\prjCalculadora.exe
+C:\Users\ksandoval\source\repos\prjCalculadora\prjCalculadora\bin\Debug\net8.0\prjCalculadora.deps.json
+C:\Users\ksandoval\source\repos\prjCalculadora\prjCalculadora\bin\Debug\net8.0\prjCalculadora.runtimeconfig.json
+C:\Users\ksandoval\source\repos\prjCalculadora\prjCalculadora\bin\Debug\net8.0\prjCalculadora.dll
+C:\Users\ksandoval\source\repos\prjCalculadora\prjCalculadora\bin\Debug\net8.0\prjCalculadora.pdb
+C:\Users\ksandoval\source\repos\prjCalculadora\prjCalculadora\obj\Debug\net8.0\prjCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksandoval\source\repos\prjCalculadora\prjCalculadora\obj\Debug\net8.0\prjCalculadora.AssemblyInfoInputs.cache
+C:\Users\ksandoval\source\repos\prjCalculadora\prjCalculadora\obj\Debug\net8.0\prjCalculadora.AssemblyInfo.cs
+C:\Users\ksandoval\source\repos\prjCalculadora\prjCalculadora\obj\Debug\net8.0\prjCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\ksandoval\source\repos\prjCalculadora\prjCalculadora\obj\Debug\net8.0\prjCalculadora.dll
+C:\Users\ksandoval\source\repos\prjCalculadora\prjCalculadora\obj\Debug\net8.0\refint\prjCalculadora.dll
+C:\Users\ksandoval\source\repos\prjCalculadora\prjCalculadora\obj\Debug\net8.0\prjCalculadora.pdb
+C:\Users\ksandoval\source\repos\prjCalculadora\prjCalculadora\obj\Debug\net8.0\prjCalculadora.genruntimeconfig.cache
+C:\Users\ksandoval\source\repos\prjCalculadora\prjCalculadora\obj\Debug\net8.0\ref\prjCalculadora.dll

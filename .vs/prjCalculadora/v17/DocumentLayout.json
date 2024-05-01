@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ksandoval\\source\\repos\\prjCalculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62AC4A59-2BDB-4D16-B93B-B54E479C5E73}|CalculadoraTest\\CalculadoraTest.csproj|c:\\users\\ksandoval\\source\\repos\\prjcalculadora\\calculadoratest\\calculadoraut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AC4A59-2BDB-4D16-B93B-B54E479C5E73}|CalculadoraTest\\CalculadoraTest.csproj|solutionrelative:calculadoratest\\calculadoraut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculadoraUT.cs",
+              "DocumentMoniker": "C:\\Users\\ksandoval\\source\\repos\\prjCalculadora\\CalculadoraTest\\CalculadoraUT.cs",
+              "RelativeDocumentMoniker": "CalculadoraTest\\CalculadoraUT.cs",
+              "ToolTip": "C:\\Users\\ksandoval\\source\\repos\\prjCalculadora\\CalculadoraTest\\CalculadoraUT.cs",
+              "RelativeToolTip": "CalculadoraTest\\CalculadoraUT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:14:54.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
