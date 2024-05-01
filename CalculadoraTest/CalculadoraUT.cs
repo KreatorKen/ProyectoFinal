@@ -23,6 +23,8 @@ namespace CalculadoraTest
             //int b = 3;
             //int esperado = 7;
 
+            //Comentario de prueba
+
             //Actual;
             int actual = clsCalculadora.Suma(a, b);
 
