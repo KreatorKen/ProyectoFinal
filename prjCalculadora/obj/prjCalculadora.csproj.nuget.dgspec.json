@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ksandoval\\source\\repos\\prjCalculadora\\prjCalculadora\\prjCalculadora.csproj": {}
+    "C:\\Users\\ksandoval\\source\\repos\\prjCalculadora\\ProyectoFinal\\prjCalculadora\\prjCalculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ksandoval\\source\\repos\\prjCalculadora\\prjCalculadora\\prjCalculadora.csproj": {
+    "C:\\Users\\ksandoval\\source\\repos\\prjCalculadora\\ProyectoFinal\\prjCalculadora\\prjCalculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ksandoval\\source\\repos\\prjCalculadora\\prjCalculadora\\prjCalculadora.csproj",
+        "projectUniqueName": "C:\\Users\\ksandoval\\source\\repos\\prjCalculadora\\ProyectoFinal\\prjCalculadora\\prjCalculadora.csproj",
         "projectName": "prjCalculadora",
-        "projectPath": "C:\\Users\\ksandoval\\source\\repos\\prjCalculadora\\prjCalculadora\\prjCalculadora.csproj",
+        "projectPath": "C:\\Users\\ksandoval\\source\\repos\\prjCalculadora\\ProyectoFinal\\prjCalculadora\\prjCalculadora.csproj",
         "packagesPath": "C:\\Users\\ksandoval\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ksandoval\\source\\repos\\prjCalculadora\\prjCalculadora\\obj\\",
+        "outputPath": "C:\\Users\\ksandoval\\source\\repos\\prjCalculadora\\ProyectoFinal\\prjCalculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ksandoval\\AppData\\Roaming\\NuGet\\NuGet.Config",

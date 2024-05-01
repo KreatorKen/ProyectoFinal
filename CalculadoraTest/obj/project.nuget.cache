@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hx6SCVlRK6FOB+HP/t28k1tYSxFgfiuheUj+n8mC5dbgViG8Qw/GjwuTvG1NwlvQmBiPcHeJlkL35hAIY3IxOQ==",
+  "dgSpecHash": "m0UX4F3ONx+nbr/me5vh56rUotyn7xhv0FjpJ2m+pnjqnkkrHwhla9O71gUoCbE/CbX315YtwZq503Kkm00JVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ksandoval\\source\\repos\\prjCalculadora\\CalculadoraTest\\CalculadoraTest.csproj",
+  "projectFilePath": "C:\\Users\\ksandoval\\source\\repos\\prjCalculadora\\ProyectoFinal\\CalculadoraTest\\CalculadoraTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ksandoval\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\ksandoval\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
