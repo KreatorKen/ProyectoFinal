@@ -25,6 +25,7 @@ namespace CalculadoraTest
 
             //Comentario de prueba
 
+            //Otro comentario
 
             //Actual;
             int actual = clsCalculadora.Suma(a, b);
